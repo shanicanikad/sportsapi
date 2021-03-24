@@ -1,0 +1,98 @@
+[
+
+    {
+
+        "sport": "Multi-Sport",
+        "image_url": "http://kickballzone.com/wp-content/uploads/2017/09/kickball-tips.jpg",
+        "info": "Kids will participate in a multitude of sports. They will play sports such as kickball, dodgeball, and wiffle ball.",
+        "location1": [
+            {
+                "place": "Winchester",
+                "ages": "4-6",
+                "days": "Monday and Tuesday",
+                "times": "12:00pm-1:00pm"
+            },
+            {
+                "place": "Winchester",
+                "ages": "7-9",
+                "days": "Monday and Tuesday",
+                "times": "2:00pm-3:00pm"
+
+            },
+            {
+                "place": "Winchester",
+                "ages": "10-12",
+                "days": "Monday and Tuesday",
+                "times": "4:00pm-5:00pm"
+            }
+        ],
+        "location2": [
+            {
+                "place": "Braintree",
+                "ages": "4-6",
+                "days": "Thursday and Friday",
+                "times": "12:00pm-1:00pm"
+            },
+            {
+                "place": "Braintree",
+                "ages": "7-9",
+                "days": "Thursday and Friday",
+                "times": "2:00pm-3:00pm"
+            },
+            {
+                "place": "Braintree",
+                "ages": "10-12",
+                "days": "Thursday and Friday",
+                "times": "4:00pm-5:00pm"
+            }
+        ]
+
+        
+    }, 
+    {  
+        "sport": "Kid Fitness",
+        "image_url": "https://www.makeitmissoula.com/wp-content/uploads/RWM_kidhurdles.jpg",
+        "info": "Kids will participate in track and field like sports with lots of running, jumping, throwing, etc.",
+        "location1": [
+            {
+                "place": "Winchester",
+                "ages": "4-6",
+                "days": "Monday and Wednesday",
+                "times": "10:00am-:11:00am"
+            },
+            {
+                "place": "Winchester",
+                "ages": "7-9",
+                "days": "Wednesday and Saturday",
+                "times": "12:00pm-1:00pm"
+
+            },
+            {
+                "place": "Winchester",
+                "ages": "10-12",
+                "days": "Wednesday and Saturday",
+                "times": "2:00pm-3:00pm"
+            }
+        ],
+        "location2": [
+            {
+                "place": "Braintree",
+                "ages": "4-6",
+                "days": "Wednesday and Saturday",
+                "times": "4:00pm-5:00pm"
+            },
+            {
+                "place": "Braintree",
+                "ages": "7-9",
+                "days": "Friday and Sunday",
+                "times": "10:00am-11:00am"
+            },
+            {
+                "place": "Braintree",
+                "ages": "10-12",
+                "days": "Sunday",
+                "times": "2:00pm-4:00pm"
+            }
+        ]
+    }
+]
