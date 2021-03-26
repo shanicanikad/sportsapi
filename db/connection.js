@@ -7,7 +7,7 @@ if (process.env.NODE_ENV === "production") {
 } else {
   mongoURI = "mongodb://localhost/sportsapp";
 }
-mongoose.connect(uri, { useNewUrlParser: true });
+mongoose.connect(mongoURI, { useNewUrlParser: true });
 
 module.exports = mongoose;
 
