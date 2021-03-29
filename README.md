@@ -6,7 +6,7 @@ Welcome to Mr. Miller's Sports Club. Let's Get Healthy Together!
 
 
 
-Here, (localhost:9000/), the user is directed to the home page. 
+Here, (https://shanicanikad.github.io/miller1/#/), the user is directed to the home page. 
 
 
 On the home page, the user can click on either two buttons: "Sports" and "Contact". Clicking on one of either of these buttons redirects the user to another page. 
